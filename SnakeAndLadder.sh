@@ -1,0 +1,4 @@
+#! /bin/bash -x
+
+#CONSTANTS
+START_POSITION=0
